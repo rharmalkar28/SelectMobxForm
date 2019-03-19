@@ -1,2 +1,0 @@
-# SelectMobxForm
-Created with CodeSandbox
